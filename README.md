@@ -22,6 +22,3 @@ Lista de exercícios de Python.
 10. Classificação de triângulos
 11. Verificação de ano bissexto
 
-## Autora
-
-julianopls 
